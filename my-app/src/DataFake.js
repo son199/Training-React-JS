@@ -8,7 +8,7 @@ export const dataListStuden = [
     status: true,
   },
   {
-    id: 1,
+    id: 2,
     name: "Phan Van Khanh",
     class: "16DTHC1",
     key: "K16",
@@ -16,7 +16,7 @@ export const dataListStuden = [
     status: true,
   },
   {
-    id: 1,
+    id: 3,
     name: "Phan Van son",
     class: "16DTHC1",
     key: "K16",
@@ -24,7 +24,7 @@ export const dataListStuden = [
     status: true,
   },
   {
-    id: 1,
+    id: 4,
     name: "Phan Van anh",
     class: "16DTHC1",
     key: "K16",
@@ -32,7 +32,7 @@ export const dataListStuden = [
     status: true,
   },
   {
-    id: 1,
+    id: 5,
     name: "Phan Van khai 1",
     class: "16DTHC1",
     key: "K16",
@@ -40,7 +40,7 @@ export const dataListStuden = [
     status: true,
   },
   {
-    id: 1,
+    id: 6,
     name: "Phan Van khai 2",
     class: "16DTHC1",
     key: "K16",
